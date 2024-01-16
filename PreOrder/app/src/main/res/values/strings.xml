@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PreOrder_App</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email\n</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="terms_and_conditions">terms_and_condition\n</string>
+    <string name="register">Register</string>
+    <string name="or">Or</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="password">Password</string>
+    <string name="last_name">Last name</string>
+    <string name="hello">Hello\n</string>
+    <string name="create_account">Create Account</string>
+    <string name="home">Home</string>
+    <string name="menu">Menu</string>
+    <string name="logout">Logout</string>
+    <string name="default_web_client_id">1017041172351-2g1hn6s23t0kisi1ndbomoml1qdjisom.apps.googleusercontent.com</string>
+    <string name="signin">SignIn</string>
+    <string name="signup">SignUp</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="Detail">Detail</string>
+    <string name="back">PrevoiusMenu\n</string>
+</resources>

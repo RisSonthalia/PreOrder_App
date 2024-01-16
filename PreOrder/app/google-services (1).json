@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1017041172351",
+    "project_id": "preorderapp-a8312",
+    "storage_bucket": "preorderapp-a8312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017041172351:android:cece67cbde4dcde32e8c4a",
+        "android_client_info": {
+          "package_name": "com.example.preorder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017041172351-hbrfr6t6s8pa236n1s2ubj9r6fbsrfqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.preorder_app",
+            "certificate_hash": "7d129203ecb965ec8c82170a1ab56ac879748fee"
+          }
+        },
+        {
+          "client_id": "1017041172351-2g1hn6s23t0kisi1ndbomoml1qdjisom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekeD0zrM1Pa2UkWcQUYiRQzTyabu0-hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017041172351-2g1hn6s23t0kisi1ndbomoml1qdjisom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
